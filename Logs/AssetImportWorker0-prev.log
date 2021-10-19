@@ -1,0 +1,789 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.3f1 (76626098c1c4) revision 7758432'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19042.1237; Version 2009; 64bit' Language: 'en' Physical Memory: 12166 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.3f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/Unity Projects/Endless Runner
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+59944
+Successfully changed project path to: D:/Unity Projects/Endless Runner
+D:/Unity Projects/Endless Runner
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 37.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.3f1 (76626098c1c4)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Unity Projects/Endless Runner/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) UHD Graphics 620 (ID=0x5917)
+    Vendor:   
+    VRAM:     6083 MB
+    Driver:   27.20.100.8681
+Shader 'BOXOPHOBIC/Polyverse Skies/Simple': fallback shader 'False' not found
+Shader 'BOXOPHOBIC/Polyverse Skies/Standard': fallback shader 'False' not found
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56568
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002574 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 32.72 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.151 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000671 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.30 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.870 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'BOXOPHOBIC/Polyverse Skies/Simple': fallback shader 'False' not found
+Shader 'BOXOPHOBIC/Polyverse Skies/Standard': fallback shader 'False' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.58 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1209 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 71.5 MB.
+System memory in use after: 71.6 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1654.
+Total: 3.000600 ms (FindLiveObjects: 0.264000 ms CreateObjectMapping: 0.091300 ms MarkObjects: 2.515900 ms  DeleteObjects: 0.126900 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Malbers Animations
+  artifactKey: Guid(eb2a851f8ed1b5b408352b7c75e6c52c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Malbers Animations using Guid(eb2a851f8ed1b5b408352b7c75e6c52c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1211d14bb558a324cda2cb30efc1426d') in 0.013946 seconds
+  Import took 0.017664 seconds .
+
+========================================================================
+Received Prepare
+Shader 'BOXOPHOBIC/Polyverse Skies/Simple': fallback shader 'False' not found
+Shader 'BOXOPHOBIC/Polyverse Skies/Standard': fallback shader 'False' not found
+Refreshing native plugins compatible for Editor in 1.35 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 45.5 MB.
+System memory in use after: 45.7 MB.
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 1654.
+Total: 4.476800 ms (FindLiveObjects: 0.283700 ms CreateObjectMapping: 0.094300 ms MarkObjects: 4.072600 ms  DeleteObjects: 0.024100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001200 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.82 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.809 seconds
+Platform modules already initialized, skipping
+Shader 'BOXOPHOBIC/Polyverse Skies/Simple': fallback shader 'False' not found
+Shader 'BOXOPHOBIC/Polyverse Skies/Standard': fallback shader 'False' not found
+Refreshing native plugins compatible for Editor in 2.15 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1181 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 69.1 MB.
+System memory in use after: 69.2 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1657.
+Total: 8.972500 ms (FindLiveObjects: 1.158000 ms CreateObjectMapping: 0.812800 ms MarkObjects: 6.840400 ms  DeleteObjects: 0.156000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000682 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.41 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.215 seconds
+Platform modules already initialized, skipping
+Shader 'BOXOPHOBIC/Polyverse Skies/Simple': fallback shader 'False' not found
+Shader 'BOXOPHOBIC/Polyverse Skies/Standard': fallback shader 'False' not found
+Refreshing native plugins compatible for Editor in 1.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1181 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 69.1 MB.
+System memory in use after: 69.2 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1660.
+Total: 7.556800 ms (FindLiveObjects: 0.885800 ms CreateObjectMapping: 0.442400 ms MarkObjects: 6.152000 ms  DeleteObjects: 0.069800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000763 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.40 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.270 seconds
+Platform modules already initialized, skipping
+Shader 'BOXOPHOBIC/Polyverse Skies/Simple': fallback shader 'False' not found
+Shader 'BOXOPHOBIC/Polyverse Skies/Standard': fallback shader 'False' not found
+Refreshing native plugins compatible for Editor in 2.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1181 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 69.1 MB.
+System memory in use after: 69.2 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1663.
+Total: 8.211700 ms (FindLiveObjects: 1.297000 ms CreateObjectMapping: 0.382100 ms MarkObjects: 6.451900 ms  DeleteObjects: 0.075300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1563.483307 seconds.
+  path: Assets/Prefabs/Tiles/Tile 1 ObstacleBridge 1.prefab
+  artifactKey: Guid(6c4219dc7bf57f344afb2fe057cfa1dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Tiles/Tile 1 ObstacleBridge 1.prefab using Guid(6c4219dc7bf57f344afb2fe057cfa1dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b8c2cadc0b75472ec0d2d5d2becd4a5') in 0.168681 seconds
+  Import took 0.171935 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000692 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.35 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.974 seconds
+Platform modules already initialized, skipping
+Shader 'BOXOPHOBIC/Polyverse Skies/Simple': fallback shader 'False' not found
+Shader 'BOXOPHOBIC/Polyverse Skies/Standard': fallback shader 'False' not found
+Refreshing native plugins compatible for Editor in 0.68 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1181 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 72.3 MB.
+System memory in use after: 72.4 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1673.
+Total: 4.896500 ms (FindLiveObjects: 0.365100 ms CreateObjectMapping: 0.137200 ms MarkObjects: 4.356700 ms  DeleteObjects: 0.034600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 48.824268 seconds.
+  path: Assets/Prefabs/Tiles/Tile 1 ObstacleBridge 1.prefab
+  artifactKey: Guid(6c4219dc7bf57f344afb2fe057cfa1dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Tiles/Tile 1 ObstacleBridge 1.prefab using Guid(6c4219dc7bf57f344afb2fe057cfa1dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ef8e249f76865c00dab8cfc04f21c49') in 0.082331 seconds
+  Import took 0.084893 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000782 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.40 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.945 seconds
+Platform modules already initialized, skipping
+Shader 'BOXOPHOBIC/Polyverse Skies/Simple': fallback shader 'False' not found
+Shader 'BOXOPHOBIC/Polyverse Skies/Standard': fallback shader 'False' not found
+Refreshing native plugins compatible for Editor in 0.69 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1181 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 72.3 MB.
+System memory in use after: 72.4 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1677.
+Total: 4.715200 ms (FindLiveObjects: 0.334300 ms CreateObjectMapping: 0.174700 ms MarkObjects: 4.171200 ms  DeleteObjects: 0.032300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001061 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.96 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.950 seconds
+Platform modules already initialized, skipping
+Shader 'BOXOPHOBIC/Polyverse Skies/Simple': fallback shader 'False' not found
+Shader 'BOXOPHOBIC/Polyverse Skies/Standard': fallback shader 'False' not found
+Refreshing native plugins compatible for Editor in 1.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1181 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 72.3 MB.
+System memory in use after: 72.4 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1680.
+Total: 8.265400 ms (FindLiveObjects: 1.154800 ms CreateObjectMapping: 0.320000 ms MarkObjects: 6.721100 ms  DeleteObjects: 0.063500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 2656.348284 seconds.
+  path: Assets/Malbers Animations/Dragons/1 - Little Tiger Dragon/LDTiger Base Demo.unity
+  artifactKey: Guid(dc873a7dc878dc845807900f1c8ee46e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Malbers Animations/Dragons/1 - Little Tiger Dragon/LDTiger Base Demo.unity using Guid(dc873a7dc878dc845807900f1c8ee46e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b9c04606f4a216ea68f7601aa8b064d') in 0.028910 seconds
+  Import took 0.032318 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000677 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.890 seconds
+Platform modules already initialized, skipping
+Shader 'BOXOPHOBIC/Polyverse Skies/Simple': fallback shader 'False' not found
+Shader 'BOXOPHOBIC/Polyverse Skies/Standard': fallback shader 'False' not found
+Refreshing native plugins compatible for Editor in 0.62 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1181 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 72.3 MB.
+System memory in use after: 72.4 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1683.
+Total: 5.851200 ms (FindLiveObjects: 0.486700 ms CreateObjectMapping: 0.166700 ms MarkObjects: 5.158900 ms  DeleteObjects: 0.036800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1553.929559 seconds.
+  path: Assets/Malbers Animations/Dragons/Common/Eyes/Textures/Realistic/01.png
+  artifactKey: Guid(785d2fb8dbc413f418d928761a73317a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Malbers Animations/Dragons/Common/Eyes/Textures/Realistic/01.png using Guid(785d2fb8dbc413f418d928761a73317a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0479a15a64b7b11df3753b2612d0da0e') in 0.158442 seconds
+  Import took 0.161614 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000198 seconds.
+  path: Assets/Malbers Animations/Dragons/Common/Eyes/Textures/Realistic/07.png
+  artifactKey: Guid(faf5f18e6bc01f544b9c6ec513437d2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Malbers Animations/Dragons/Common/Eyes/Textures/Realistic/07.png using Guid(faf5f18e6bc01f544b9c6ec513437d2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21b3fb1fa60bc0297a2b6f0e06e08e87') in 0.019354 seconds
+  Import took 0.022305 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/Malbers Animations/Dragons/Common/Eyes/Textures/Realistic/05.png
+  artifactKey: Guid(1aa789fd6fe65f344abd127ad515b1ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Malbers Animations/Dragons/Common/Eyes/Textures/Realistic/05.png using Guid(1aa789fd6fe65f344abd127ad515b1ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db7e6aaccd96ab6a1b84e50c1c9824dd') in 0.031518 seconds
+  Import took 0.034302 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/Malbers Animations/Dragons/Common/Eyes/Textures/Realistic/11.png
+  artifactKey: Guid(c9969f72aa5a372499e221128cf57942) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Malbers Animations/Dragons/Common/Eyes/Textures/Realistic/11.png using Guid(c9969f72aa5a372499e221128cf57942) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12f681f27e68824e126b727976d574aa') in 0.029210 seconds
+  Import took 0.033779 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000384 seconds.
+  path: Assets/Malbers Animations/Dragons/Common/Eyes/Textures/Realistic/06.png
+  artifactKey: Guid(ac4b82933fd252f45862a842169a1dec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Malbers Animations/Dragons/Common/Eyes/Textures/Realistic/06.png using Guid(ac4b82933fd252f45862a842169a1dec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f421dea7dc8b1197657df0945d9a7177') in 0.019561 seconds
+  Import took 0.023015 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/Malbers Animations/Dragons/Common/Eyes/Textures/Realistic/10.png
+  artifactKey: Guid(887762e99e4c4c544869e977c0be5fee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Malbers Animations/Dragons/Common/Eyes/Textures/Realistic/10.png using Guid(887762e99e4c4c544869e977c0be5fee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43cafcf5653392eb38a4ba488415041b') in 0.027811 seconds
+  Import took 0.030718 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/Malbers Animations/Dragons/Common/Eyes/Textures/Realistic/03.png
+  artifactKey: Guid(ce8d9a385f76d7d4f8bd6dce5cefde2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Malbers Animations/Dragons/Common/Eyes/Textures/Realistic/03.png using Guid(ce8d9a385f76d7d4f8bd6dce5cefde2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9c77041ee9c90fb51b199ed08e97799') in 0.019127 seconds
+  Import took 0.022050 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000205 seconds.
+  path: Assets/Malbers Animations/Dragons/Common/Eyes/Textures/Realistic/01.png
+  artifactKey: Guid(785d2fb8dbc413f418d928761a73317a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Malbers Animations/Dragons/Common/Eyes/Textures/Realistic/01.png using Guid(785d2fb8dbc413f418d928761a73317a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0479a15a64b7b11df3753b2612d0da0e') in 0.022759 seconds
+  Import took 0.025693 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/Malbers Animations/Dragons/Common/Eyes/Textures/Realistic/09.png
+  artifactKey: Guid(f340bd4f6b204be46867085affe5b9f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Malbers Animations/Dragons/Common/Eyes/Textures/Realistic/09.png using Guid(f340bd4f6b204be46867085affe5b9f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '988e1c6d5d02aa43a55f953c95a0f747') in 0.023386 seconds
+  Import took 0.027555 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.102592 seconds.
+  path: Assets/Malbers Animations/Dragons/Common/Eyes/Textures/Realistic/12.png
+  artifactKey: Guid(7e2890002dbf83d44b36b17266fa9347) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Malbers Animations/Dragons/Common/Eyes/Textures/Realistic/12.png using Guid(7e2890002dbf83d44b36b17266fa9347) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e85d572aca33b9c2f1987ea97fc2f17') in 0.015835 seconds
+  Import took 0.018797 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000347 seconds.
+  path: Assets/Malbers Animations/Dragons/Common/Eyes/Textures/Realistic/13.png
+  artifactKey: Guid(c1b58ac3cf20c4a4ead5e6ab077017b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Malbers Animations/Dragons/Common/Eyes/Textures/Realistic/13.png using Guid(c1b58ac3cf20c4a4ead5e6ab077017b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be74abcbdbcc615b6b8996cec2629f1e') in 0.018642 seconds
+  Import took 0.020827 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000293 seconds.
+  path: Assets/Malbers Animations/Dragons/Common/Eyes/Textures/Realistic/12.png
+  artifactKey: Guid(7e2890002dbf83d44b36b17266fa9347) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Malbers Animations/Dragons/Common/Eyes/Textures/Realistic/12.png using Guid(7e2890002dbf83d44b36b17266fa9347) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e85d572aca33b9c2f1987ea97fc2f17') in 0.017651 seconds
+  Import took 0.021117 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000429 seconds.
+  path: Assets/Malbers Animations/Dragons/Common/Eyes/Textures/Realistic/14.png
+  artifactKey: Guid(994a6fe860f4a204ba2083569734b8d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Malbers Animations/Dragons/Common/Eyes/Textures/Realistic/14.png using Guid(994a6fe860f4a204ba2083569734b8d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a52a96561abb552cb95b510cb6bab04') in 0.017627 seconds
+  Import took 0.020596 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000325 seconds.
+  path: Assets/Malbers Animations/Dragons/Common/Eyes/Textures/Realistic/13.png
+  artifactKey: Guid(c1b58ac3cf20c4a4ead5e6ab077017b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Malbers Animations/Dragons/Common/Eyes/Textures/Realistic/13.png using Guid(c1b58ac3cf20c4a4ead5e6ab077017b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be74abcbdbcc615b6b8996cec2629f1e') in 0.014998 seconds
+  Import took 0.019516 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000415 seconds.
+  path: Assets/Malbers Animations/Dragons/Common/Eyes/Textures/Realistic/16.png
+  artifactKey: Guid(91929848a03c42d4d9a3ba3a67005750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Malbers Animations/Dragons/Common/Eyes/Textures/Realistic/16.png using Guid(91929848a03c42d4d9a3ba3a67005750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9f66c05485a9234f976401fc47a7894') in 0.019252 seconds
+  Import took 0.022193 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000301 seconds.
+  path: Assets/Malbers Animations/Dragons/Common/Eyes/Textures/Realistic/18.png
+  artifactKey: Guid(85c0485e1084f944da20ef8ec6a41db6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Malbers Animations/Dragons/Common/Eyes/Textures/Realistic/18.png using Guid(85c0485e1084f944da20ef8ec6a41db6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '580920026ae93b32b45515a415ee18d1') in 0.025557 seconds
+  Import took 0.028602 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000375 seconds.
+  path: Assets/Malbers Animations/Dragons/Common/Eyes/Textures/Realistic/21.png
+  artifactKey: Guid(3dcc8dbeff8864147b76fde5bd14c407) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Malbers Animations/Dragons/Common/Eyes/Textures/Realistic/21.png using Guid(3dcc8dbeff8864147b76fde5bd14c407) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f64e4aaca24729b36f9f79e09ee1fab') in 0.018250 seconds
+  Import took 0.020459 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/Malbers Animations/Dragons/Common/Eyes/Textures/Realistic/24.png
+  artifactKey: Guid(d06ddd361332db04388a09e93a9f0a27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Malbers Animations/Dragons/Common/Eyes/Textures/Realistic/24.png using Guid(d06ddd361332db04388a09e93a9f0a27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9b1486c28a0cac665db66ab1d5fff04') in 0.030725 seconds
+  Import took 0.034219 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000407 seconds.
+  path: Assets/Malbers Animations/Common/Materials & Textures/Animals_Icons.png
+  artifactKey: Guid(2044553abe6893e47b7abe476a2f0291) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Malbers Animations/Common/Materials & Textures/Animals_Icons.png using Guid(2044553abe6893e47b7abe476a2f0291) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc587730b8f1ecc3905050a320237ae8') in 0.029556 seconds
+  Import took 0.032075 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000382 seconds.
+  path: Assets/Malbers Animations/Dragons/Common/Eyes/Textures/Realistic/23.png
+  artifactKey: Guid(d97d951668981534a852dbdeb2150b75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Malbers Animations/Dragons/Common/Eyes/Textures/Realistic/23.png using Guid(d97d951668981534a852dbdeb2150b75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44323da91a5108f9c3358366ce7b457e') in 0.022202 seconds
+  Import took 0.025981 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000406 seconds.
+  path: Assets/Malbers Animations/Dragons/Common/Eyes/Textures/Realistic/25.png
+  artifactKey: Guid(ecdbf99f5a1edf04a8ac3f746b636da2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Malbers Animations/Dragons/Common/Eyes/Textures/Realistic/25.png using Guid(ecdbf99f5a1edf04a8ac3f746b636da2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c42cdd4959fd322c9eb10df25e24134') in 0.019300 seconds
+  Import took 0.021935 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000305 seconds.
+  path: Assets/Malbers Animations/Dragons/Common/Eyes/Textures/Realistic/22.png
+  artifactKey: Guid(2a1e3e18ccd56b04792f291bdaae4f38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Malbers Animations/Dragons/Common/Eyes/Textures/Realistic/22.png using Guid(2a1e3e18ccd56b04792f291bdaae4f38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c39510581123fd38af46e37d7bbbbc9') in 0.026004 seconds
+  Import took 0.028696 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000311 seconds.
+  path: Assets/Malbers Animations/Dragons/Common/Eyes/Blood Pupil.png
+  artifactKey: Guid(7fd24a4cdfc9d9445b46ce5e87b38825) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Malbers Animations/Dragons/Common/Eyes/Blood Pupil.png using Guid(7fd24a4cdfc9d9445b46ce5e87b38825) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0841c95b5c4290e04b8fc6cbea985a1e') in 0.020092 seconds
+  Import took 0.023203 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000613 seconds.
+  path: Assets/BOXOPHOBIC/Utils/Resources/Boxophobic - BannerMiddle.psd
+  artifactKey: Guid(e3767adfa5dac5544830cd097ef6c09f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BOXOPHOBIC/Utils/Resources/Boxophobic - BannerMiddle.psd using Guid(e3767adfa5dac5544830cd097ef6c09f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a4b1c5f284cf69c766566d39c00e4c8') in 0.036265 seconds
+  Import took 0.040353 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000349 seconds.
+  path: Assets/BOXOPHOBIC/Utils/Resources/Boxophobic - BannerBegin.psd
+  artifactKey: Guid(9515108b8376ad7418e8138858201b72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BOXOPHOBIC/Utils/Resources/Boxophobic - BannerBegin.psd using Guid(9515108b8376ad7418e8138858201b72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c1c33fec14e16fe42a2ffce69a57f84') in 0.017867 seconds
+  Import took 0.020710 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000461 seconds.
+  path: Assets/BOXOPHOBIC/Utils/Resources/Boxophobic - BannerEnd.psd
+  artifactKey: Guid(0dd3fbd5475976a4aa96298afc680d17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BOXOPHOBIC/Utils/Resources/Boxophobic - BannerEnd.psd using Guid(0dd3fbd5475976a4aa96298afc680d17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '352faa42a01f0a2df95ef1f01758c6da') in 0.024365 seconds
+  Import took 0.027606 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000286 seconds.
+  path: Assets/Malbers Animations/Dragons/Common/Eyes/Textures/Realistic/19.png
+  artifactKey: Guid(34e7b44bf2dd73c449ac2eab3c2205a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Malbers Animations/Dragons/Common/Eyes/Textures/Realistic/19.png using Guid(34e7b44bf2dd73c449ac2eab3c2205a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '922d9ea41a27d39de8d1a3cc7b364081') in 0.029034 seconds
+  Import took 0.031527 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000292 seconds.
+  path: Assets/Malbers Animations/Common/Materials & Textures/AnimalController_Icon.png
+  artifactKey: Guid(6fed46b7047bdf94eb0425b756394e5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Malbers Animations/Common/Materials & Textures/AnimalController_Icon.png using Guid(6fed46b7047bdf94eb0425b756394e5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a551c389d604242e86b61befb07a7d2c') in 0.029778 seconds
+  Import took 0.034098 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000390 seconds.
+  path: Assets/Malbers Animations/Dragons/Common/Eyes/Textures/Realistic/17.png
+  artifactKey: Guid(b8a5bef4b8ca051459878b2d74be66a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Malbers Animations/Dragons/Common/Eyes/Textures/Realistic/17.png using Guid(b8a5bef4b8ca051459878b2d74be66a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80d93e84944a5fde6da8fed2927a5725') in 0.033142 seconds
+  Import took 0.035915 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000273 seconds.
+  path: Assets/Malbers Animations/Dragons/Common/Eyes/Textures/Realistic/20.png
+  artifactKey: Guid(5e1bfb66ce2ede34d9b7232f82eb2b87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Malbers Animations/Dragons/Common/Eyes/Textures/Realistic/20.png using Guid(5e1bfb66ce2ede34d9b7232f82eb2b87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9552b8663e2b0c9248acdf5ab6e4f56') in 0.025570 seconds
+  Import took 0.028953 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000607 seconds.
+  path: Assets/Malbers Animations/Dragons/Common/Eyes/Textures/Realistic/15.png
+  artifactKey: Guid(61895fae324bff64c83c8c5c860d55e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Malbers Animations/Dragons/Common/Eyes/Textures/Realistic/15.png using Guid(61895fae324bff64c83c8c5c860d55e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1060e553217fe7c877e6a039f8071e26') in 0.018497 seconds
+  Import took 0.021422 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.927762 seconds.
+  path: Assets/BOXOPHOBIC/Utils/Resources/Boxophobic - CategoryBegin.psd
+  artifactKey: Guid(97ec2262fb592f94a9569e156ea65d7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BOXOPHOBIC/Utils/Resources/Boxophobic - CategoryBegin.psd using Guid(97ec2262fb592f94a9569e156ea65d7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80596afccd138cc7b30be3c272cf5eed') in 0.011442 seconds
+  Import took 0.014169 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000306 seconds.
+  path: Assets/BOXOPHOBIC/Utils/Resources/Boxophobic - CategoryEnd.psd
+  artifactKey: Guid(e1c856352cf5b9b479ddb80c85c84cd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BOXOPHOBIC/Utils/Resources/Boxophobic - CategoryEnd.psd using Guid(e1c856352cf5b9b479ddb80c85c84cd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70c8aac6d1728e69d203525d0804abe1') in 0.012302 seconds
+  Import took 0.016234 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000525 seconds.
+  path: Assets/BOXOPHOBIC/Utils/Resources/Boxophobic - CategoryBegin.psd
+  artifactKey: Guid(97ec2262fb592f94a9569e156ea65d7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BOXOPHOBIC/Utils/Resources/Boxophobic - CategoryBegin.psd using Guid(97ec2262fb592f94a9569e156ea65d7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80596afccd138cc7b30be3c272cf5eed') in 0.006830 seconds
+  Import took 0.012276 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000501 seconds.
+  path: Assets/BOXOPHOBIC/Utils/Resources/Boxophobic - CategoryEnd.psd
+  artifactKey: Guid(e1c856352cf5b9b479ddb80c85c84cd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BOXOPHOBIC/Utils/Resources/Boxophobic - CategoryEnd.psd using Guid(e1c856352cf5b9b479ddb80c85c84cd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70c8aac6d1728e69d203525d0804abe1') in 0.010850 seconds
+  Import took 0.015421 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.020339 seconds.
+  path: Assets/BOXOPHOBIC/Utils/Resources/Boxophobic - CategoryMiddle.psd
+  artifactKey: Guid(106fc33e3a3dab34f89693e3ed333fa2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BOXOPHOBIC/Utils/Resources/Boxophobic - CategoryMiddle.psd using Guid(106fc33e3a3dab34f89693e3ed333fa2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15cb0ad316dbe48d92e2edeebc910cca') in 0.024408 seconds
+  Import took 0.027893 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000338 seconds.
+  path: Assets/BOXOPHOBIC/Utils/Resources/Boxophobic - IconEdit.psd
+  artifactKey: Guid(cf593cb3310b7784a8f0967b8ba89b02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BOXOPHOBIC/Utils/Resources/Boxophobic - IconEdit.psd using Guid(cf593cb3310b7784a8f0967b8ba89b02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f8323a1562015b7d71c09f7377b1318') in 0.017378 seconds
+  Import took 0.019784 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.512415 seconds.
+  path: Assets/BOXOPHOBIC/Utils/Resources/Boxophobic - IconHelp.psd
+  artifactKey: Guid(b676a215be26cba488e51c0dda84e72d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BOXOPHOBIC/Utils/Resources/Boxophobic - IconHelp.psd using Guid(b676a215be26cba488e51c0dda84e72d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4feea6aa93caa3ca2950be9f2a86145') in 0.012051 seconds
+  Import took 0.015214 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000447 seconds.
+  path: Assets/BOXOPHOBIC/Utils/Resources/Boxophobic - Logo.png
+  artifactKey: Guid(4ebb9926546381046a4271ece54ce919) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BOXOPHOBIC/Utils/Resources/Boxophobic - Logo.png using Guid(4ebb9926546381046a4271ece54ce919) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3342407282b31a89c9b685dca62774c7') in 0.020085 seconds
+  Import took 0.024035 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.048060 seconds.
+  path: Assets/Malbers Animations/Common/Materials & Textures/Environment/CalibrationFloor.png
+  artifactKey: Guid(c39bba2a66b38c843bdb4076582b55d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Malbers Animations/Common/Materials & Textures/Environment/CalibrationFloor.png using Guid(c39bba2a66b38c843bdb4076582b55d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ddcffad2a57d4154de77170f900f44a5') in 0.030814 seconds
+  Import took 0.034140 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000423 seconds.
+  path: Assets/Malbers Animations/Common/Materials & Textures/Environment/CalibrationFloor_Dark.png
+  artifactKey: Guid(a182e5e661a775647a98ffd1d3501135) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Malbers Animations/Common/Materials & Textures/Environment/CalibrationFloor_Dark.png using Guid(a182e5e661a775647a98ffd1d3501135) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23023e0259bf09fdb7823e99eb7bfddf') in 0.027056 seconds
+  Import took 0.033572 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.393657 seconds.
+  path: Assets/Malbers Animations/Dragons/Common/Eyes/Cat Pupil.png
+  artifactKey: Guid(039d132d85d391e4393d3675cc9b7815) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Malbers Animations/Dragons/Common/Eyes/Cat Pupil.png using Guid(039d132d85d391e4393d3675cc9b7815) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7285258f785861e8b5014b49a4f30dd8') in 0.021350 seconds
+  Import took 0.023964 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.624171 seconds.
+  path: Assets/Malbers Animations/Dragons/Common/Eyes/Textures/PolyArt/Drago Eye Poly Sprit_a.png
+  artifactKey: Guid(ec81c74e6f3f94b4791d88cac6b4d46f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Malbers Animations/Dragons/Common/Eyes/Textures/PolyArt/Drago Eye Poly Sprit_a.png using Guid(ec81c74e6f3f94b4791d88cac6b4d46f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be06d52de7a83f34fc63844db32c15b7') in 0.016408 seconds
+  Import took 0.019367 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000326 seconds.
+  path: Assets/Malbers Animations/Dragons/Common/Eyes/Textures/PolyArt/Drago Eye Poly Sprit_b.png
+  artifactKey: Guid(aae69ac93ad947a47acf029d528ae9ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Malbers Animations/Dragons/Common/Eyes/Textures/PolyArt/Drago Eye Poly Sprit_b.png using Guid(aae69ac93ad947a47acf029d528ae9ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7483667be4d94307adce662210d47b5e') in 0.017679 seconds
+  Import took 0.021574 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.102090 seconds.
+  path: Assets/Malbers Animations/Dragons/Common/Eyes/Textures/PolyArt/Drago Eye Poly Sprit_c.png
+  artifactKey: Guid(952404fe89b3b634ebdb05f312c96c80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Malbers Animations/Dragons/Common/Eyes/Textures/PolyArt/Drago Eye Poly Sprit_c.png using Guid(952404fe89b3b634ebdb05f312c96c80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1313760f49a9f438846814df71e2dc7e') in 0.020087 seconds
+  Import took 0.022582 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000336 seconds.
+  path: Assets/Malbers Animations/Dragons/Common/Eyes/Textures/PolyArt/Drago Eye Poly Sprit_d.png
+  artifactKey: Guid(c4d972fcd30e2264f9583ac9b2ee54d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Malbers Animations/Dragons/Common/Eyes/Textures/PolyArt/Drago Eye Poly Sprit_d.png using Guid(c4d972fcd30e2264f9583ac9b2ee54d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6f44c7003db82acc0ed51bb3431363e') in 0.017933 seconds
+  Import took 0.020024 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.039252 seconds.
+  path: Assets/Malbers Animations/Dragons/Common/Eyes/Textures/PolyArt/Drago Eye Poly Sprite.png
+  artifactKey: Guid(7ce9bb50776e7864db6eb98e8f069434) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Malbers Animations/Dragons/Common/Eyes/Textures/PolyArt/Drago Eye Poly Sprite.png using Guid(7ce9bb50776e7864db6eb98e8f069434) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4de3a60c05033c35dd86e86f5b311a94') in 0.028358 seconds
+  Import took 0.032435 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/Malbers Animations/Dragons/Common/Eyes/Textures/PolyArt/Drago Eye Poly Sprite01.png
+  artifactKey: Guid(3c79f4214045aa74b94b0619685a825c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Malbers Animations/Dragons/Common/Eyes/Textures/PolyArt/Drago Eye Poly Sprite01.png using Guid(3c79f4214045aa74b94b0619685a825c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a645d9220538fe5380120d3a9bc49bf6') in 0.028004 seconds
+  Import took 0.031168 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000497 seconds.
+  path: Assets/Malbers Animations/Dragons/Common/Eyes/Textures/PolyArt/Drago Eye Poly Sprite.png
+  artifactKey: Guid(7ce9bb50776e7864db6eb98e8f069434) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Malbers Animations/Dragons/Common/Eyes/Textures/PolyArt/Drago Eye Poly Sprite.png using Guid(7ce9bb50776e7864db6eb98e8f069434) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4de3a60c05033c35dd86e86f5b311a94') in 0.012803 seconds
+  Import took 0.019662 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.058704 seconds.
+  path: Assets/Malbers Animations/Dragons/Common/Eyes/Textures/PolyArt/Drago Eye Poly Sprite02.png
+  artifactKey: Guid(b886910ae4b398143841f3f7d1082a9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Malbers Animations/Dragons/Common/Eyes/Textures/PolyArt/Drago Eye Poly Sprite02.png using Guid(b886910ae4b398143841f3f7d1082a9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55c20a42af55b1cf9f9c7d28fd0f4abe') in 0.016485 seconds
+  Import took 0.019934 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/Malbers Animations/Dragons/Common/Eyes/Textures/PolyArt/Drago Eye Poly Sprite02_a.png
+  artifactKey: Guid(bb1c8613df7b9d341b7e97a03b6d3cac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Malbers Animations/Dragons/Common/Eyes/Textures/PolyArt/Drago Eye Poly Sprite02_a.png using Guid(bb1c8613df7b9d341b7e97a03b6d3cac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83ab43f99a00501262525f400947f6d3') in 0.019715 seconds
+  Import took 0.022705 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/Malbers Animations/Dragons/Common/Eyes/Textures/PolyArt/Drago Eye Poly Sprite02_c.png
+  artifactKey: Guid(95656437f5f3ee64daa7cafbc2991748) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Malbers Animations/Dragons/Common/Eyes/Textures/PolyArt/Drago Eye Poly Sprite02_c.png using Guid(95656437f5f3ee64daa7cafbc2991748) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f271d31a8bef6781de3fa5e23bfdfe53') in 0.048716 seconds
+  Import took 0.052512 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/Malbers Animations/Dragons/Common/Eyes/Textures/PolyArt/Drago Eye Poly Sprite02_b.png
+  artifactKey: Guid(2c1ffc8f78a6f95409d5be4aede6d459) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Malbers Animations/Dragons/Common/Eyes/Textures/PolyArt/Drago Eye Poly Sprite02_b.png using Guid(2c1ffc8f78a6f95409d5be4aede6d459) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8da6600102bb672123024f07ba9a165') in 0.027146 seconds
+  Import took 0.031734 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/Malbers Animations/Dragons/Common/Eyes/Textures/PolyArt/Drago Eye Poly Sprite_a.png
+  artifactKey: Guid(197be967b1873694aaf7278cd626c121) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Malbers Animations/Dragons/Common/Eyes/Textures/PolyArt/Drago Eye Poly Sprite_a.png using Guid(197be967b1873694aaf7278cd626c121) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9507b0e41e6ff87650cafa57b7152015') in 0.036873 seconds
+  Import took 0.042039 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000378 seconds.
+  path: Assets/Malbers Animations/Dragons/Common/Eyes/Textures/PolyArt/Drago Eye Poly Sprite_c.png
+  artifactKey: Guid(5b2ff2768dcd4eb429bd908536472214) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Malbers Animations/Dragons/Common/Eyes/Textures/PolyArt/Drago Eye Poly Sprite_c.png using Guid(5b2ff2768dcd4eb429bd908536472214) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6bad88f1ad02fd7faa5b17f7dab8aed8') in 0.018619 seconds
+  Import took 0.023228 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/Malbers Animations/Dragons/Common/Eyes/Textures/PolyArt/Drago Eye Poly Sprite02_d.png
+  artifactKey: Guid(73b915b3a3448d743be6218cc497ee3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Malbers Animations/Dragons/Common/Eyes/Textures/PolyArt/Drago Eye Poly Sprite02_d.png using Guid(73b915b3a3448d743be6218cc497ee3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e2af43be513b5981b4baedbad28b5fc') in 0.023703 seconds
+  Import took 0.026350 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/Malbers Animations/Dragons/Common/Eyes/Textures/PolyArt/Drago Eye Poly Sprite_b.png
+  artifactKey: Guid(cd674cfc39c270e45bf03ba2ff706448) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Malbers Animations/Dragons/Common/Eyes/Textures/PolyArt/Drago Eye Poly Sprite_b.png using Guid(cd674cfc39c270e45bf03ba2ff706448) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82b2aec0782860d2ce64ca9ab24ef3b7') in 0.017165 seconds
+  Import took 0.020189 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 450.858795 seconds.
+  path: Assets/Materials/Smoke And Fire Clouds Free Texture Background.png
+  artifactKey: Guid(c0b1b07768551574c82f2004d9a83617) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Smoke And Fire Clouds Free Texture Background.png using Guid(c0b1b07768551574c82f2004d9a83617) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '123c339e9f63c91851df468f5ee8499e') in 0.017560 seconds
+  Import took 0.021247 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.045087 seconds.
+  path: Assets/Materials/Smoke And Fire Clouds Free Texture Background.png
+  artifactKey: Guid(c0b1b07768551574c82f2004d9a83617) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Smoke And Fire Clouds Free Texture Background.png using Guid(c0b1b07768551574c82f2004d9a83617) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '123c339e9f63c91851df468f5ee8499e') in 0.015338 seconds
+  Import took 0.018158 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 210.774608 seconds.
+  path: Assets/Materials/fireball.mat
+  artifactKey: Guid(d432f8019dfeb5b498ad5eb3160ba515) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/fireball.mat using Guid(d432f8019dfeb5b498ad5eb3160ba515) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f7394d6cb0dd2b2496bcf810bdedf96') in 0.096035 seconds
+  Import took 0.100176 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
